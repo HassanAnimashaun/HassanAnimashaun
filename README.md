@@ -1,6 +1,6 @@
 # Hey, I'm Hassan 👋
 
-Full-stack developer based in Virginia Beach. CS grad from Fayetteville State University.
+Full-stack developer based in North Carolina. CS grad from Fayetteville State University.
 
 Shipped production features at **Pendo** (Vue.js, session replay tooling) and building full-stack apps independently.
 
