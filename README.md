@@ -1,10 +1,13 @@
-# I'm Hassan Animashaun 👋
+# Hey, I'm Hassan 👋
 
-🎓 Recent Computer Science Graduate | 🧠 Creative Thinker | 💻 Front-End Developer
+Full-stack developer based in Virginia Beach. CS grad from Fayetteville State University.
 
-Hi! I'm a recent CS grad from Fayetteville State University with a passion for front-end development and building clean, user-focused web apps. I’ve worked with tools like **Vue.js**, **Cypress**, and **Jest** during my internship at **Pendo.io**, and I continue to sharpen my skills through personal projects.
+Shipped production features at **Pendo** (Vue.js, session replay tooling) and building full-stack apps independently.
 
-Currently exploring new technologies, contributing to open source, and open to junior developer opportunities.
+**Currently working on:**
+- 🌱 BookSprout — a reading tracker + rewards app for kids (Node.js, Vue 3, MongoDB)
+- 📅 ShiftMate — an employee scheduling platform (Vue.js, Node.js, MongoDB)
 
-📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/hassan-animashaun-29bbb5262/)  
-🌐 Portfolio coming soon!
+**Stack:** TypeScript · JavaScript · Vue.js · React · Node.js · Express · MongoDB · Tailwind CSS
+
+📫 [LinkedIn](https://www.linkedin.com/in/hassananimashaun-29bbb5262/) · Open to new grad / associate / junior SWE roles
